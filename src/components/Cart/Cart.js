@@ -30,7 +30,9 @@ const Cart = (props) => {
                 >
                     Close
                 </button>
-                <button className={classes.button}>Order</button>
+                <button className={classes.button}>
+                    Order
+                </button>
             </div>
         </Modal>
     );
